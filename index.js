@@ -41,7 +41,7 @@ async function ls() {
     <link>
         ${link}
     </link>
-    <pubDate>${moment().subtract(month, 'months').format('ddd, DD MMM YYYY')} 16:00:00 PDT</pubDate>
+    <pubDate>${moment().subtract(month, 'months').format('ddd, DD MMM YYYY')} 16:00:00 EST</pubDate>
     <description>
       ${title}
     </description>
@@ -70,8 +70,7 @@ async function ls() {
           The full length description for your podcast
       </description>
       <language>en-us</language>
-      <atom:link href="https://raw.githubusercontent.com/sunabozu/podcast/master/podcast.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Fri, 01 Jan 2016 06:00:00 PDT</lastBuildDate>
+      <atom:link href="https://raw.githubusercontent.com/sunabozu/podcast/master/podcast.rss" rel="self" type="application/rss+xml"/>
       <itunes:author>Dan Carlin</itunes:author>
       <itunes:summary>
           The full length description for your podcast
@@ -81,14 +80,10 @@ async function ls() {
           <itunes:name>Dan Carlin</itunes:name>
       </itunes:owner>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:keywords>
-          comma,separated,key,words
-      </itunes:keywords>
       <itunes:image href="https://www.dancarlin.com/wp-content/uploads/2014/03/dc-homepage-cover-img.jpg"/>
       <rawvoice:location>San Francisco, California</rawvoice:location>
       <rawvoice:frequency>Monthly</rawvoice:frequency>
       <itunes:category text="History"/>
-      <pubDate>Fri, 01 Jan 2016 06:00:00 PDT</pubDate>
       ${podItems}
   </channel>
 </rss>
