@@ -1,0 +1,869 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" version="2.0">
+  <channel>
+      <title>Hardcore History</title>
+      <link>https://www.dancarlin.com/hardcore-history-series/</link>
+      <image>
+          <url>https://www.dancarlin.com/wp-content/uploads/2014/03/dc-homepage-cover-img.jpg</url>
+          <title>Hardcore History</title>
+          <link>https://www.dancarlin.com/hardcore-history-series/</link>
+      </image>
+      <description>
+          The full length description for your podcast
+      </description>
+      <language>en-us</language>
+      <atom:link href="https://raw.githubusercontent.com/sunabozu/podcast/master/podcast.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Fri, 01 Jan 2016 06:00:00 PDT</lastBuildDate>
+      <itunes:author>Dan Carlin</itunes:author>
+      <itunes:summary>
+          The full length description for your podcast
+      </itunes:summary>
+      <itunes:subtitle>Short sentence about the podcast</itunes:subtitle>
+      <itunes:owner>
+          <itunes:name>Dan Carlin</itunes:name>
+      </itunes:owner>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:keywords>
+          comma,separated,key,words
+      </itunes:keywords>
+      <itunes:image href="https://www.dancarlin.com/wp-content/uploads/2014/03/dc-homepage-cover-img.jpg"/>
+      <rawvoice:location>San Francisco, California</rawvoice:location>
+      <rawvoice:frequency>Monthly</rawvoice:frequency>
+      <itunes:category text="History"/>
+      <pubDate>Fri, 01 Jan 2016 06:00:00 PDT</pubDate>
+      <item>
+    <title>49 The American Peril</title>
+    <link>
+        https://drive.google.com/uc?export=download&id=1MaUiK73HqUplHHW8Xb_APa8Ns7xnbJj3
+    </link>
+    <pubDate>2018-12-01T13:41:00.952Z</pubDate>
+    <description>
+      49 The American Peril
+    </description>
+    <enclosure url="https://drive.google.com/uc?export=download&id=1MaUiK73HqUplHHW8Xb_APa8Ns7xnbJj3" type="audio/mpeg"/>
+    <guid>
+        https://drive.google.com/uc?export=download&id=1MaUiK73HqUplHHW8Xb_APa8Ns7xnbJj3
+    </guid>
+    <itunes:summary>
+      49 The American Peril
+    </itunes:summary>
+  </item>
+<item>
+    <title>48 Prophets of Doom</title>
+    <link>
+        https://drive.google.com/uc?export=download&id=1gdj8OG_WQdUFIO3p2wdGxvY5EQIsD0lY
+    </link>
+    <pubDate>2018-11-01T13:41:00.957Z</pubDate>
+    <description>
+      48 Prophets of Doom
+    </description>
+    <enclosure url="https://drive.google.com/uc?export=download&id=1gdj8OG_WQdUFIO3p2wdGxvY5EQIsD0lY" type="audio/mpeg"/>
+    <guid>
+        https://drive.google.com/uc?export=download&id=1gdj8OG_WQdUFIO3p2wdGxvY5EQIsD0lY
+    </guid>
+    <itunes:summary>
+      48 Prophets of Doom
+    </itunes:summary>
+  </item>
+<item>
+    <title>47 Wrath of the Khans V</title>
+    <link>
+        https://drive.google.com/uc?export=download&id=1cWKmAfWJmhkNH9TmE-_hkT-gHmYHSX7j
+    </link>
+    <pubDate>2018-10-01T12:41:00.957Z</pubDate>
+    <description>
+      47 Wrath of the Khans V
+    </description>
+    <enclosure url="https://drive.google.com/uc?export=download&id=1cWKmAfWJmhkNH9TmE-_hkT-gHmYHSX7j" type="audio/mpeg"/>
+    <guid>
+        https://drive.google.com/uc?export=download&id=1cWKmAfWJmhkNH9TmE-_hkT-gHmYHSX7j
+    </guid>
+    <itunes:summary>
+      47 Wrath of the Khans V
+    </itunes:summary>
+  </item>
+<item>
+    <title>46 Wrath of the Khans IV</title>
+    <link>
+        https://drive.google.com/uc?export=download&id=1mcvgiu7mfbDstamZ_eWpPKzBpXB9V5l-
+    </link>
+    <pubDate>2018-09-01T12:41:00.957Z</pubDate>
+    <description>
+      46 Wrath of the Khans IV
+    </description>
+    <enclosure url="https://drive.google.com/uc?export=download&id=1mcvgiu7mfbDstamZ_eWpPKzBpXB9V5l-" type="audio/mpeg"/>
+    <guid>
+        https://drive.google.com/uc?export=download&id=1mcvgiu7mfbDstamZ_eWpPKzBpXB9V5l-
+    </guid>
+    <itunes:summary>
+      46 Wrath of the Khans IV
+    </itunes:summary>
+  </item>
+<item>
+    <title>45 Wrath of the Khans III</title>
+    <link>
+        https://drive.google.com/uc?export=download&id=1q8QuntlhDjDDUTRI37mJ9CtsvfoqEov4
+    </link>
+    <pubDate>2018-08-01T12:41:00.957Z</pubDate>
+    <description>
+      45 Wrath of the Khans III
+    </description>
+    <enclosure url="https://drive.google.com/uc?export=download&id=1q8QuntlhDjDDUTRI37mJ9CtsvfoqEov4" type="audio/mpeg"/>
+    <guid>
+        https://drive.google.com/uc?export=download&id=1q8QuntlhDjDDUTRI37mJ9CtsvfoqEov4
+    </guid>
+    <itunes:summary>
+      45 Wrath of the Khans III
+    </itunes:summary>
+  </item>
+<item>
+    <title>44 Wrath of the Khans II</title>
+    <link>
+        https://drive.google.com/uc?export=download&id=1GRXJwYaNVsAmfZLMGqAmnxSj6TG2cvAl
+    </link>
+    <pubDate>2018-07-01T12:41:00.958Z</pubDate>
+    <description>
+      44 Wrath of the Khans II
+    </description>
+    <enclosure url="https://drive.google.com/uc?export=download&id=1GRXJwYaNVsAmfZLMGqAmnxSj6TG2cvAl" type="audio/mpeg"/>
+    <guid>
+        https://drive.google.com/uc?export=download&id=1GRXJwYaNVsAmfZLMGqAmnxSj6TG2cvAl
+    </guid>
+    <itunes:summary>
+      44 Wrath of the Khans II
+    </itunes:summary>
+  </item>
+<item>
+    <title>43 Wrath of the Khans I</title>
+    <link>
+        https://drive.google.com/uc?export=download&id=1SxWKFg_NE1jpL9aN16OzX5550knhxECw
+    </link>
+    <pubDate>2018-06-01T12:41:00.958Z</pubDate>
+    <description>
+      43 Wrath of the Khans I
+    </description>
+    <enclosure url="https://drive.google.com/uc?export=download&id=1SxWKFg_NE1jpL9aN16OzX5550knhxECw" type="audio/mpeg"/>
+    <guid>
+        https://drive.google.com/uc?export=download&id=1SxWKFg_NE1jpL9aN16OzX5550knhxECw
+    </guid>
+    <itunes:summary>
+      43 Wrath of the Khans I
+    </itunes:summary>
+  </item>
+<item>
+    <title>42 (BLITZ) Logical Insanity</title>
+    <link>
+        https://drive.google.com/uc?export=download&id=1fMVq6V9j1rfDcjx7K1-Wi2lxH36LVdkf
+    </link>
+    <pubDate>2018-05-01T12:41:00.958Z</pubDate>
+    <description>
+      42 (BLITZ) Logical Insanity
+    </description>
+    <enclosure url="https://drive.google.com/uc?export=download&id=1fMVq6V9j1rfDcjx7K1-Wi2lxH36LVdkf" type="audio/mpeg"/>
+    <guid>
+        https://drive.google.com/uc?export=download&id=1fMVq6V9j1rfDcjx7K1-Wi2lxH36LVdkf
+    </guid>
+    <itunes:summary>
+      42 (BLITZ) Logical Insanity
+    </itunes:summary>
+  </item>
+<item>
+    <title>41 Thors Angels</title>
+    <link>
+        https://drive.google.com/uc?export=download&id=11estuiJCgW72v7JkyiKd8ztjXryXaGx5
+    </link>
+    <pubDate>2018-04-01T12:41:00.958Z</pubDate>
+    <description>
+      41 Thors Angels
+    </description>
+    <enclosure url="https://drive.google.com/uc?export=download&id=11estuiJCgW72v7JkyiKd8ztjXryXaGx5" type="audio/mpeg"/>
+    <guid>
+        https://drive.google.com/uc?export=download&id=11estuiJCgW72v7JkyiKd8ztjXryXaGx5
+    </guid>
+    <itunes:summary>
+      41 Thors Angels
+    </itunes:summary>
+  </item>
+<item>
+    <title>40 (BLITZ) Radical Thoughts</title>
+    <link>
+        https://drive.google.com/uc?export=download&id=1_18Rbo-t4Kg_48onwZmzdq2IuHqe_J16
+    </link>
+    <pubDate>2018-03-01T13:41:00.958Z</pubDate>
+    <description>
+      40 (BLITZ) Radical Thoughts
+    </description>
+    <enclosure url="https://drive.google.com/uc?export=download&id=1_18Rbo-t4Kg_48onwZmzdq2IuHqe_J16" type="audio/mpeg"/>
+    <guid>
+        https://drive.google.com/uc?export=download&id=1_18Rbo-t4Kg_48onwZmzdq2IuHqe_J16
+    </guid>
+    <itunes:summary>
+      40 (BLITZ) Radical Thoughts
+    </itunes:summary>
+  </item>
+<item>
+    <title>39 Death Throes of the Republic VI</title>
+    <link>
+        https://drive.google.com/uc?export=download&id=1SMv8zR2hU94koyJXtyq4P4774yYreiQI
+    </link>
+    <pubDate>2018-02-01T13:41:00.958Z</pubDate>
+    <description>
+      39 Death Throes of the Republic VI
+    </description>
+    <enclosure url="https://drive.google.com/uc?export=download&id=1SMv8zR2hU94koyJXtyq4P4774yYreiQI" type="audio/mpeg"/>
+    <guid>
+        https://drive.google.com/uc?export=download&id=1SMv8zR2hU94koyJXtyq4P4774yYreiQI
+    </guid>
+    <itunes:summary>
+      39 Death Throes of the Republic VI
+    </itunes:summary>
+  </item>
+<item>
+    <title>38 Death Throes of the Republic V</title>
+    <link>
+        https://drive.google.com/uc?export=download&id=1gnuKnGl7pD4w_giv7gQE_Zo694o4FH_5
+    </link>
+    <pubDate>2018-01-01T13:41:00.958Z</pubDate>
+    <description>
+      38 Death Throes of the Republic V
+    </description>
+    <enclosure url="https://drive.google.com/uc?export=download&id=1gnuKnGl7pD4w_giv7gQE_Zo694o4FH_5" type="audio/mpeg"/>
+    <guid>
+        https://drive.google.com/uc?export=download&id=1gnuKnGl7pD4w_giv7gQE_Zo694o4FH_5
+    </guid>
+    <itunes:summary>
+      38 Death Throes of the Republic V
+    </itunes:summary>
+  </item>
+<item>
+    <title>37 Death Throes of the Republic IV</title>
+    <link>
+        https://drive.google.com/uc?export=download&id=15YvRGxcPqAH9yYQ-TzZC__1Ls-jusxY2
+    </link>
+    <pubDate>2017-12-01T13:41:00.958Z</pubDate>
+    <description>
+      37 Death Throes of the Republic IV
+    </description>
+    <enclosure url="https://drive.google.com/uc?export=download&id=15YvRGxcPqAH9yYQ-TzZC__1Ls-jusxY2" type="audio/mpeg"/>
+    <guid>
+        https://drive.google.com/uc?export=download&id=15YvRGxcPqAH9yYQ-TzZC__1Ls-jusxY2
+    </guid>
+    <itunes:summary>
+      37 Death Throes of the Republic IV
+    </itunes:summary>
+  </item>
+<item>
+    <title>36 Death Throes of the Republic III</title>
+    <link>
+        https://drive.google.com/uc?export=download&id=1vxZ93C-ayIuKvHMnpZlEWqWPRJ74OB6Y
+    </link>
+    <pubDate>2017-11-01T13:41:00.958Z</pubDate>
+    <description>
+      36 Death Throes of the Republic III
+    </description>
+    <enclosure url="https://drive.google.com/uc?export=download&id=1vxZ93C-ayIuKvHMnpZlEWqWPRJ74OB6Y" type="audio/mpeg"/>
+    <guid>
+        https://drive.google.com/uc?export=download&id=1vxZ93C-ayIuKvHMnpZlEWqWPRJ74OB6Y
+    </guid>
+    <itunes:summary>
+      36 Death Throes of the Republic III
+    </itunes:summary>
+  </item>
+<item>
+    <title>35 Death Throes of the Republic II</title>
+    <link>
+        https://drive.google.com/uc?export=download&id=13-xT841IPBqT1wM10PjkmwH8l3Ofy-Q_
+    </link>
+    <pubDate>2017-10-01T12:41:00.958Z</pubDate>
+    <description>
+      35 Death Throes of the Republic II
+    </description>
+    <enclosure url="https://drive.google.com/uc?export=download&id=13-xT841IPBqT1wM10PjkmwH8l3Ofy-Q_" type="audio/mpeg"/>
+    <guid>
+        https://drive.google.com/uc?export=download&id=13-xT841IPBqT1wM10PjkmwH8l3Ofy-Q_
+    </guid>
+    <itunes:summary>
+      35 Death Throes of the Republic II
+    </itunes:summary>
+  </item>
+<item>
+    <title>34 Death Throes of the Republic I</title>
+    <link>
+        https://drive.google.com/uc?export=download&id=1Ang_WT_-sqMh7WV0gQoWXjQKXfpjI1Ka
+    </link>
+    <pubDate>2017-09-01T12:41:00.958Z</pubDate>
+    <description>
+      34 Death Throes of the Republic I
+    </description>
+    <enclosure url="https://drive.google.com/uc?export=download&id=1Ang_WT_-sqMh7WV0gQoWXjQKXfpjI1Ka" type="audio/mpeg"/>
+    <guid>
+        https://drive.google.com/uc?export=download&id=1Ang_WT_-sqMh7WV0gQoWXjQKXfpjI1Ka
+    </guid>
+    <itunes:summary>
+      34 Death Throes of the Republic I
+    </itunes:summary>
+  </item>
+<item>
+    <title>33 (BLITZ) Old School Toughness</title>
+    <link>
+        https://drive.google.com/uc?export=download&id=1UZ1ejgyWwm2xmk6J-mxf3SQTsMPHvT9N
+    </link>
+    <pubDate>2017-08-01T12:41:00.958Z</pubDate>
+    <description>
+      33 (BLITZ) Old School Toughness
+    </description>
+    <enclosure url="https://drive.google.com/uc?export=download&id=1UZ1ejgyWwm2xmk6J-mxf3SQTsMPHvT9N" type="audio/mpeg"/>
+    <guid>
+        https://drive.google.com/uc?export=download&id=1UZ1ejgyWwm2xmk6J-mxf3SQTsMPHvT9N
+    </guid>
+    <itunes:summary>
+      33 (BLITZ) Old School Toughness
+    </itunes:summary>
+  </item>
+<item>
+    <title>32 Globalization Unto Death</title>
+    <link>
+        https://drive.google.com/uc?export=download&id=1_m8L-11Z5WWRX5TMx0KCRog9D2AZH2XW
+    </link>
+    <pubDate>2017-07-01T12:41:00.958Z</pubDate>
+    <description>
+      32 Globalization Unto Death
+    </description>
+    <enclosure url="https://drive.google.com/uc?export=download&id=1_m8L-11Z5WWRX5TMx0KCRog9D2AZH2XW" type="audio/mpeg"/>
+    <guid>
+        https://drive.google.com/uc?export=download&id=1_m8L-11Z5WWRX5TMx0KCRog9D2AZH2XW
+    </guid>
+    <itunes:summary>
+      32 Globalization Unto Death
+    </itunes:summary>
+  </item>
+<item>
+    <title>31 (BLITZ) Suffer the Children</title>
+    <link>
+        https://drive.google.com/uc?export=download&id=1GMgTOe-lV836VU8EsEAvlEFS6qp8GAbu
+    </link>
+    <pubDate>2017-06-01T12:41:00.958Z</pubDate>
+    <description>
+      31 (BLITZ) Suffer the Children
+    </description>
+    <enclosure url="https://drive.google.com/uc?export=download&id=1GMgTOe-lV836VU8EsEAvlEFS6qp8GAbu" type="audio/mpeg"/>
+    <guid>
+        https://drive.google.com/uc?export=download&id=1GMgTOe-lV836VU8EsEAvlEFS6qp8GAbu
+    </guid>
+    <itunes:summary>
+      31 (BLITZ) Suffer the Children
+    </itunes:summary>
+  </item>
+<item>
+    <title>30 Ghosts of the Ostfront IV</title>
+    <link>
+        https://drive.google.com/uc?export=download&id=1WY_-HPgX5tqjkqa7i4rWxnouVujk06fi
+    </link>
+    <pubDate>2017-05-01T12:41:00.958Z</pubDate>
+    <description>
+      30 Ghosts of the Ostfront IV
+    </description>
+    <enclosure url="https://drive.google.com/uc?export=download&id=1WY_-HPgX5tqjkqa7i4rWxnouVujk06fi" type="audio/mpeg"/>
+    <guid>
+        https://drive.google.com/uc?export=download&id=1WY_-HPgX5tqjkqa7i4rWxnouVujk06fi
+    </guid>
+    <itunes:summary>
+      30 Ghosts of the Ostfront IV
+    </itunes:summary>
+  </item>
+<item>
+    <title>29 Ghosts of the Ostfront III</title>
+    <link>
+        https://drive.google.com/uc?export=download&id=13tqqql4zPo6a7OIXfSrEY3Q5GhfBsDMA
+    </link>
+    <pubDate>2017-04-01T12:41:00.958Z</pubDate>
+    <description>
+      29 Ghosts of the Ostfront III
+    </description>
+    <enclosure url="https://drive.google.com/uc?export=download&id=13tqqql4zPo6a7OIXfSrEY3Q5GhfBsDMA" type="audio/mpeg"/>
+    <guid>
+        https://drive.google.com/uc?export=download&id=13tqqql4zPo6a7OIXfSrEY3Q5GhfBsDMA
+    </guid>
+    <itunes:summary>
+      29 Ghosts of the Ostfront III
+    </itunes:summary>
+  </item>
+<item>
+    <title>28 Ghosts of the Ostfront II</title>
+    <link>
+        https://drive.google.com/uc?export=download&id=1nogfe9KDIU8x1eKn82-_eoedBuuoRgXv
+    </link>
+    <pubDate>2017-03-01T13:41:00.958Z</pubDate>
+    <description>
+      28 Ghosts of the Ostfront II
+    </description>
+    <enclosure url="https://drive.google.com/uc?export=download&id=1nogfe9KDIU8x1eKn82-_eoedBuuoRgXv" type="audio/mpeg"/>
+    <guid>
+        https://drive.google.com/uc?export=download&id=1nogfe9KDIU8x1eKn82-_eoedBuuoRgXv
+    </guid>
+    <itunes:summary>
+      28 Ghosts of the Ostfront II
+    </itunes:summary>
+  </item>
+<item>
+    <title>27 Ghosts of the Ostfront I</title>
+    <link>
+        https://drive.google.com/uc?export=download&id=1zMaRxthtoNXZw4THovRDE0LW2bxHSMjz
+    </link>
+    <pubDate>2017-02-01T13:41:00.958Z</pubDate>
+    <description>
+      27 Ghosts of the Ostfront I
+    </description>
+    <enclosure url="https://drive.google.com/uc?export=download&id=1zMaRxthtoNXZw4THovRDE0LW2bxHSMjz" type="audio/mpeg"/>
+    <guid>
+        https://drive.google.com/uc?export=download&id=1zMaRxthtoNXZw4THovRDE0LW2bxHSMjz
+    </guid>
+    <itunes:summary>
+      27 Ghosts of the Ostfront I
+    </itunes:summary>
+  </item>
+<item>
+    <title>26 (BLITZ) Addicted to Bondage</title>
+    <link>
+        https://drive.google.com/uc?export=download&id=1HK9WwjNkk0UhhUigxxcsJBsqiTDKqVVa
+    </link>
+    <pubDate>2017-01-01T13:41:00.958Z</pubDate>
+    <description>
+      26 (BLITZ) Addicted to Bondage
+    </description>
+    <enclosure url="https://drive.google.com/uc?export=download&id=1HK9WwjNkk0UhhUigxxcsJBsqiTDKqVVa" type="audio/mpeg"/>
+    <guid>
+        https://drive.google.com/uc?export=download&id=1HK9WwjNkk0UhhUigxxcsJBsqiTDKqVVa
+    </guid>
+    <itunes:summary>
+      26 (BLITZ) Addicted to Bondage
+    </itunes:summary>
+  </item>
+<item>
+    <title>25 The Dyer Outlook</title>
+    <link>
+        https://drive.google.com/uc?export=download&id=18jaRTiuH4QkNgXHTfwb6iWKjUy32ANUR
+    </link>
+    <pubDate>2016-12-01T13:41:00.958Z</pubDate>
+    <description>
+      25 The Dyer Outlook
+    </description>
+    <enclosure url="https://drive.google.com/uc?export=download&id=18jaRTiuH4QkNgXHTfwb6iWKjUy32ANUR" type="audio/mpeg"/>
+    <guid>
+        https://drive.google.com/uc?export=download&id=18jaRTiuH4QkNgXHTfwb6iWKjUy32ANUR
+    </guid>
+    <itunes:summary>
+      25 The Dyer Outlook
+    </itunes:summary>
+  </item>
+<item>
+    <title>24 Classical Hanson</title>
+    <link>
+        https://drive.google.com/uc?export=download&id=1S6uUGogqHtkt_6yk8TIuST04jwL92WoR
+    </link>
+    <pubDate>2016-11-01T13:41:00.958Z</pubDate>
+    <description>
+      24 Classical Hanson
+    </description>
+    <enclosure url="https://drive.google.com/uc?export=download&id=1S6uUGogqHtkt_6yk8TIuST04jwL92WoR" type="audio/mpeg"/>
+    <guid>
+        https://drive.google.com/uc?export=download&id=1S6uUGogqHtkt_6yk8TIuST04jwL92WoR
+    </guid>
+    <itunes:summary>
+      24 Classical Hanson
+    </itunes:summary>
+  </item>
+<item>
+    <title>23 Punic Nightmares III</title>
+    <link>
+        https://drive.google.com/uc?export=download&id=1zzXT5vYe374MkiPeQM4WP5wvpI73hf1q
+    </link>
+    <pubDate>2016-10-01T12:41:00.958Z</pubDate>
+    <description>
+      23 Punic Nightmares III
+    </description>
+    <enclosure url="https://drive.google.com/uc?export=download&id=1zzXT5vYe374MkiPeQM4WP5wvpI73hf1q" type="audio/mpeg"/>
+    <guid>
+        https://drive.google.com/uc?export=download&id=1zzXT5vYe374MkiPeQM4WP5wvpI73hf1q
+    </guid>
+    <itunes:summary>
+      23 Punic Nightmares III
+    </itunes:summary>
+  </item>
+<item>
+    <title>22 Punic Nightmares II</title>
+    <link>
+        https://drive.google.com/uc?export=download&id=1ypieyF-hQ6j7YFjYRTAynz1d4Op0Cest
+    </link>
+    <pubDate>2016-09-01T12:41:00.958Z</pubDate>
+    <description>
+      22 Punic Nightmares II
+    </description>
+    <enclosure url="https://drive.google.com/uc?export=download&id=1ypieyF-hQ6j7YFjYRTAynz1d4Op0Cest" type="audio/mpeg"/>
+    <guid>
+        https://drive.google.com/uc?export=download&id=1ypieyF-hQ6j7YFjYRTAynz1d4Op0Cest
+    </guid>
+    <itunes:summary>
+      22 Punic Nightmares II
+    </itunes:summary>
+  </item>
+<item>
+    <title>21 Punic Nightmares I</title>
+    <link>
+        https://drive.google.com/uc?export=download&id=1JzHYHiTzji9BXL5IapxYwUb3fmqw4ot6
+    </link>
+    <pubDate>2016-08-01T12:41:00.958Z</pubDate>
+    <description>
+      21 Punic Nightmares I
+    </description>
+    <enclosure url="https://drive.google.com/uc?export=download&id=1JzHYHiTzji9BXL5IapxYwUb3fmqw4ot6" type="audio/mpeg"/>
+    <guid>
+        https://drive.google.com/uc?export=download&id=1JzHYHiTzji9BXL5IapxYwUb3fmqw4ot6
+    </guid>
+    <itunes:summary>
+      21 Punic Nightmares I
+    </itunes:summary>
+  </item>
+<item>
+    <title>20 (Blitz) History Under The Influence</title>
+    <link>
+        https://drive.google.com/uc?export=download&id=1bQny1d-wXJnBzQk2Hro0Yup0cBaaUgcw
+    </link>
+    <pubDate>2016-07-01T12:41:00.958Z</pubDate>
+    <description>
+      20 (Blitz) History Under The Influence
+    </description>
+    <enclosure url="https://drive.google.com/uc?export=download&id=1bQny1d-wXJnBzQk2Hro0Yup0cBaaUgcw" type="audio/mpeg"/>
+    <guid>
+        https://drive.google.com/uc?export=download&id=1bQny1d-wXJnBzQk2Hro0Yup0cBaaUgcw
+    </guid>
+    <itunes:summary>
+      20 (Blitz) History Under The Influence
+    </itunes:summary>
+  </item>
+<item>
+    <title>19 Apache Tears</title>
+    <link>
+        https://drive.google.com/uc?export=download&id=1g__aUY-nBLw-D4b6IlZp-6JboVn00suj
+    </link>
+    <pubDate>2016-06-01T12:41:00.958Z</pubDate>
+    <description>
+      19 Apache Tears
+    </description>
+    <enclosure url="https://drive.google.com/uc?export=download&id=1g__aUY-nBLw-D4b6IlZp-6JboVn00suj" type="audio/mpeg"/>
+    <guid>
+        https://drive.google.com/uc?export=download&id=1g__aUY-nBLw-D4b6IlZp-6JboVn00suj
+    </guid>
+    <itunes:summary>
+      19 Apache Tears
+    </itunes:summary>
+  </item>
+<item>
+    <title>18 A Fly on James Burke's Wall</title>
+    <link>
+        https://drive.google.com/uc?export=download&id=1dnQ1fD8z7wSEnqkRPu-slTyTl2mSRRvY
+    </link>
+    <pubDate>2016-05-01T12:41:00.958Z</pubDate>
+    <description>
+      18 A Fly on James Burke's Wall
+    </description>
+    <enclosure url="https://drive.google.com/uc?export=download&id=1dnQ1fD8z7wSEnqkRPu-slTyTl2mSRRvY" type="audio/mpeg"/>
+    <guid>
+        https://drive.google.com/uc?export=download&id=1dnQ1fD8z7wSEnqkRPu-slTyTl2mSRRvY
+    </guid>
+    <itunes:summary>
+      18 A Fly on James Burke's Wall
+    </itunes:summary>
+  </item>
+<item>
+    <title>17 Judgment at Nineveh</title>
+    <link>
+        https://drive.google.com/uc?export=download&id=1c81637_1czKO8vsn9MyeD5MRn3Zvt_4J
+    </link>
+    <pubDate>2016-04-01T12:41:00.958Z</pubDate>
+    <description>
+      17 Judgment at Nineveh
+    </description>
+    <enclosure url="https://drive.google.com/uc?export=download&id=1c81637_1czKO8vsn9MyeD5MRn3Zvt_4J" type="audio/mpeg"/>
+    <guid>
+        https://drive.google.com/uc?export=download&id=1c81637_1czKO8vsn9MyeD5MRn3Zvt_4J
+    </guid>
+    <itunes:summary>
+      17 Judgment at Nineveh
+    </itunes:summary>
+  </item>
+<item>
+    <title>16 Nazi Tidbits</title>
+    <link>
+        https://drive.google.com/uc?export=download&id=1QEXEIpmreEsA90od43bsK_Xir6uHQk-3
+    </link>
+    <pubDate>2016-03-01T13:41:00.958Z</pubDate>
+    <description>
+      16 Nazi Tidbits
+    </description>
+    <enclosure url="https://drive.google.com/uc?export=download&id=1QEXEIpmreEsA90od43bsK_Xir6uHQk-3" type="audio/mpeg"/>
+    <guid>
+        https://drive.google.com/uc?export=download&id=1QEXEIpmreEsA90od43bsK_Xir6uHQk-3
+    </guid>
+    <itunes:summary>
+      16 Nazi Tidbits
+    </itunes:summary>
+  </item>
+<item>
+    <title>15 Desperate Times</title>
+    <link>
+        https://drive.google.com/uc?export=download&id=1fYpN83h6cmsfFPUBDeeejdepB0nPnOY5
+    </link>
+    <pubDate>2016-02-01T13:41:00.958Z</pubDate>
+    <description>
+      15 Desperate Times
+    </description>
+    <enclosure url="https://drive.google.com/uc?export=download&id=1fYpN83h6cmsfFPUBDeeejdepB0nPnOY5" type="audio/mpeg"/>
+    <guid>
+        https://drive.google.com/uc?export=download&id=1fYpN83h6cmsfFPUBDeeejdepB0nPnOY5
+    </guid>
+    <itunes:summary>
+      15 Desperate Times
+    </itunes:summary>
+  </item>
+<item>
+    <title>14 The Macedonian Soap Opera</title>
+    <link>
+        https://drive.google.com/uc?export=download&id=1rpYxQ6WsmNF3jpwf9lygXK3jqzWV7MGY
+    </link>
+    <pubDate>2016-01-01T13:41:00.958Z</pubDate>
+    <description>
+      14 The Macedonian Soap Opera
+    </description>
+    <enclosure url="https://drive.google.com/uc?export=download&id=1rpYxQ6WsmNF3jpwf9lygXK3jqzWV7MGY" type="audio/mpeg"/>
+    <guid>
+        https://drive.google.com/uc?export=download&id=1rpYxQ6WsmNF3jpwf9lygXK3jqzWV7MGY
+    </guid>
+    <itunes:summary>
+      14 The Macedonian Soap Opera
+    </itunes:summary>
+  </item>
+<item>
+    <title>13 Bubonic Nukes</title>
+    <link>
+        https://drive.google.com/uc?export=download&id=1CdCcJxhSilH-zv_QcRfZlp7Qf-b1sCxI
+    </link>
+    <pubDate>2015-12-01T13:41:00.958Z</pubDate>
+    <description>
+      13 Bubonic Nukes
+    </description>
+    <enclosure url="https://drive.google.com/uc?export=download&id=1CdCcJxhSilH-zv_QcRfZlp7Qf-b1sCxI" type="audio/mpeg"/>
+    <guid>
+        https://drive.google.com/uc?export=download&id=1CdCcJxhSilH-zv_QcRfZlp7Qf-b1sCxI
+    </guid>
+    <itunes:summary>
+      13 Bubonic Nukes
+    </itunes:summary>
+  </item>
+<item>
+    <title>12 Steppe Stories</title>
+    <link>
+        https://drive.google.com/uc?export=download&id=1ny5L7WYX6DBhVv5Oye1INMjGCc9scfnj
+    </link>
+    <pubDate>2015-11-01T13:41:00.958Z</pubDate>
+    <description>
+      12 Steppe Stories
+    </description>
+    <enclosure url="https://drive.google.com/uc?export=download&id=1ny5L7WYX6DBhVv5Oye1INMjGCc9scfnj" type="audio/mpeg"/>
+    <guid>
+        https://drive.google.com/uc?export=download&id=1ny5L7WYX6DBhVv5Oye1INMjGCc9scfnj
+    </guid>
+    <itunes:summary>
+      12 Steppe Stories
+    </itunes:summary>
+  </item>
+<item>
+    <title>11 Thoughts on Churchill</title>
+    <link>
+        https://drive.google.com/uc?export=download&id=1zcYoG_vwyzmtcMVbQDBqyw1c7BjFduy6
+    </link>
+    <pubDate>2015-10-01T12:41:00.958Z</pubDate>
+    <description>
+      11 Thoughts on Churchill
+    </description>
+    <enclosure url="https://drive.google.com/uc?export=download&id=1zcYoG_vwyzmtcMVbQDBqyw1c7BjFduy6" type="audio/mpeg"/>
+    <guid>
+        https://drive.google.com/uc?export=download&id=1zcYoG_vwyzmtcMVbQDBqyw1c7BjFduy6
+    </guid>
+    <itunes:summary>
+      11 Thoughts on Churchill
+    </itunes:summary>
+  </item>
+<item>
+    <title>10 The What-Ifs Of 1066</title>
+    <link>
+        https://drive.google.com/uc?export=download&id=1kunko8AQKcHR8A_wHBdGwpJABM_GzdRf
+    </link>
+    <pubDate>2015-09-01T12:41:00.958Z</pubDate>
+    <description>
+      10 The What-Ifs Of 1066
+    </description>
+    <enclosure url="https://drive.google.com/uc?export=download&id=1kunko8AQKcHR8A_wHBdGwpJABM_GzdRf" type="audio/mpeg"/>
+    <guid>
+        https://drive.google.com/uc?export=download&id=1kunko8AQKcHR8A_wHBdGwpJABM_GzdRf
+    </guid>
+    <itunes:summary>
+      10 The What-Ifs Of 1066
+    </itunes:summary>
+  </item>
+<item>
+    <title>09 Darkness Buries the Bronze Age</title>
+    <link>
+        https://drive.google.com/uc?export=download&id=1OZpWHiWmWQZmJ6sTbsC15L3dkDUrdcYT
+    </link>
+    <pubDate>2015-08-01T12:41:00.958Z</pubDate>
+    <description>
+      09 Darkness Buries the Bronze Age
+    </description>
+    <enclosure url="https://drive.google.com/uc?export=download&id=1OZpWHiWmWQZmJ6sTbsC15L3dkDUrdcYT" type="audio/mpeg"/>
+    <guid>
+        https://drive.google.com/uc?export=download&id=1OZpWHiWmWQZmJ6sTbsC15L3dkDUrdcYT
+    </guid>
+    <itunes:summary>
+      09 Darkness Buries the Bronze Age
+    </itunes:summary>
+  </item>
+<item>
+    <title>08 Scars of the Great War</title>
+    <link>
+        https://drive.google.com/uc?export=download&id=1x7hee5mfRIUHwQAdoRECY_i_v6FdUkY8
+    </link>
+    <pubDate>2015-07-01T12:41:00.958Z</pubDate>
+    <description>
+      08 Scars of the Great War
+    </description>
+    <enclosure url="https://drive.google.com/uc?export=download&id=1x7hee5mfRIUHwQAdoRECY_i_v6FdUkY8" type="audio/mpeg"/>
+    <guid>
+        https://drive.google.com/uc?export=download&id=1x7hee5mfRIUHwQAdoRECY_i_v6FdUkY8
+    </guid>
+    <itunes:summary>
+      08 Scars of the Great War
+    </itunes:summary>
+  </item>
+<item>
+    <title>07 The X-History Files</title>
+    <link>
+        https://drive.google.com/uc?export=download&id=1fSjKv-v2TmPKEE3ZrLo3qltI-zIB22hD
+    </link>
+    <pubDate>2015-06-01T12:41:00.958Z</pubDate>
+    <description>
+      07 The X-History Files
+    </description>
+    <enclosure url="https://drive.google.com/uc?export=download&id=1fSjKv-v2TmPKEE3ZrLo3qltI-zIB22hD" type="audio/mpeg"/>
+    <guid>
+        https://drive.google.com/uc?export=download&id=1fSjKv-v2TmPKEE3ZrLo3qltI-zIB22hD
+    </guid>
+    <itunes:summary>
+      07 The X-History Files
+    </itunes:summary>
+  </item>
+<item>
+    <title>06 Shield of the West</title>
+    <link>
+        https://drive.google.com/uc?export=download&id=1hCBTsGpJYbQQg227ah6VxaSFltC-L6qC
+    </link>
+    <pubDate>2015-05-01T12:41:00.958Z</pubDate>
+    <description>
+      06 Shield of the West
+    </description>
+    <enclosure url="https://drive.google.com/uc?export=download&id=1hCBTsGpJYbQQg227ah6VxaSFltC-L6qC" type="audio/mpeg"/>
+    <guid>
+        https://drive.google.com/uc?export=download&id=1hCBTsGpJYbQQg227ah6VxaSFltC-L6qC
+    </guid>
+    <itunes:summary>
+      06 Shield of the West
+    </itunes:summary>
+  </item>
+<item>
+    <title>05 Meandering Through The Cold War</title>
+    <link>
+        https://drive.google.com/uc?export=download&id=1tmxSVkaAll9dVkq0bzUbHr5FU5xicpIR
+    </link>
+    <pubDate>2015-04-01T12:41:00.958Z</pubDate>
+    <description>
+      05 Meandering Through The Cold War
+    </description>
+    <enclosure url="https://drive.google.com/uc?export=download&id=1tmxSVkaAll9dVkq0bzUbHr5FU5xicpIR" type="audio/mpeg"/>
+    <guid>
+        https://drive.google.com/uc?export=download&id=1tmxSVkaAll9dVkq0bzUbHr5FU5xicpIR
+    </guid>
+    <itunes:summary>
+      05 Meandering Through The Cold War
+    </itunes:summary>
+  </item>
+<item>
+    <title>04 Romancing The Tribes</title>
+    <link>
+        https://drive.google.com/uc?export=download&id=1q4ukSvveem8V9HFNzc04OwbyIIi02X7w
+    </link>
+    <pubDate>2015-03-01T13:41:00.958Z</pubDate>
+    <description>
+      04 Romancing The Tribes
+    </description>
+    <enclosure url="https://drive.google.com/uc?export=download&id=1q4ukSvveem8V9HFNzc04OwbyIIi02X7w" type="audio/mpeg"/>
+    <guid>
+        https://drive.google.com/uc?export=download&id=1q4ukSvveem8V9HFNzc04OwbyIIi02X7w
+    </guid>
+    <itunes:summary>
+      04 Romancing The Tribes
+    </itunes:summary>
+  </item>
+<item>
+    <title>03 The Organization of Peace</title>
+    <link>
+        https://drive.google.com/uc?export=download&id=1PdxYC1iXGkyrIha1hYLSsLXYUtXDJl-5
+    </link>
+    <pubDate>2015-02-01T13:41:00.958Z</pubDate>
+    <description>
+      03 The Organization of Peace
+    </description>
+    <enclosure url="https://drive.google.com/uc?export=download&id=1PdxYC1iXGkyrIha1hYLSsLXYUtXDJl-5" type="audio/mpeg"/>
+    <guid>
+        https://drive.google.com/uc?export=download&id=1PdxYC1iXGkyrIha1hYLSsLXYUtXDJl-5
+    </guid>
+    <itunes:summary>
+      03 The Organization of Peace
+    </itunes:summary>
+  </item>
+<item>
+    <title>02 Guns & Horses</title>
+    <link>
+        https://drive.google.com/uc?export=download&id=17_Zy9YH-mkRVE1w1vT8PdvYe_ZMyHzNs
+    </link>
+    <pubDate>2015-01-01T13:41:00.958Z</pubDate>
+    <description>
+      02 Guns & Horses
+    </description>
+    <enclosure url="https://drive.google.com/uc?export=download&id=17_Zy9YH-mkRVE1w1vT8PdvYe_ZMyHzNs" type="audio/mpeg"/>
+    <guid>
+        https://drive.google.com/uc?export=download&id=17_Zy9YH-mkRVE1w1vT8PdvYe_ZMyHzNs
+    </guid>
+    <itunes:summary>
+      02 Guns & Horses
+    </itunes:summary>
+  </item>
+<item>
+    <title>01 Alexander versus Hitler</title>
+    <link>
+        https://drive.google.com/uc?export=download&id=1osJi7nxKhg3DnAPqbBrpX8lJ-CDGejK_
+    </link>
+    <pubDate>2014-12-01T13:41:00.958Z</pubDate>
+    <description>
+      01 Alexander versus Hitler
+    </description>
+    <enclosure url="https://drive.google.com/uc?export=download&id=1osJi7nxKhg3DnAPqbBrpX8lJ-CDGejK_" type="audio/mpeg"/>
+    <guid>
+        https://drive.google.com/uc?export=download&id=1osJi7nxKhg3DnAPqbBrpX8lJ-CDGejK_
+    </guid>
+    <itunes:summary>
+      01 Alexander versus Hitler
+    </itunes:summary>
+  </item>
+
+  </channel>
+</rss>
+  
