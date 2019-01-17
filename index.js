@@ -1,4 +1,7 @@
 const { google } = require('googleapis')
+const moment = require('moment')
+
+// service key
 const privateKey = require('./private-key.json')
 
 const jwtClient = new google.auth.JWT(
@@ -23,10 +26,8 @@ async function ls() {
     orderBy: 'name desc'
   })
 
-  // console.log(resp.data.files)
-
   const downloadLink = 'https://drive.google.com/uc?export=download&id='
-
+  // Sat, 02 Jan 2016 16:00:00 PDT
   let podItems = ''
   let month = 1
   for(let podItem of resp.data.files) {
@@ -40,7 +41,7 @@ async function ls() {
     <link>
         ${link}
     </link>
-    <pubDate>${date.toISOString()}</pubDate>
+    <pubDate>${moment().subtract(month, 'months').format('ddd, DD MMM YYYY')} 16:00:00 PDT</pubDate>
     <description>
       ${title}
     </description>
